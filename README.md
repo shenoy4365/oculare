@@ -9,19 +9,22 @@ The application provides an interactive vision test, personalized eye health rec
 ## 📸 Screenshots & Demo
 
 <p align="center">
-  <img src="wireframe%20imgs/welcome-screen.PNG" alt="Welcome Screen" width="180"/>
-  <img src="wireframe%20imgs/sign-up-screen.PNG" alt="Sign-Up Screen" width="180"/>
-  <img src="wireframe%20imgs/login-screen.PNG" alt="Login Screen" width="180"/>
-  <img src="wireframe%20imgs/home-screen.PNG" alt="Home Screen" width="180"/>
-  <img src="wireframe%20imgs/retinal-analysis-card.PNG" alt="Retinal Analysis Card" width="180"/>
+  <img src="wireframe%20imgs/welcome-screen.PNG" alt="Welcome Screen" width="200"/>
+  <img src="wireframe%20imgs/sign-up-screen.PNG" alt="Sign-Up Screen" width="200"/>
+  <img src="wireframe%20imgs/login-screen.PNG" alt="Login Screen" width="200"/>
+  <img src="wireframe%20imgs/home-screen.PNG" alt="Home Screen" width="200"/>
 </p>
 
 <p align="center">
-  <img src="wireframe%20imgs/past-scans-screen.PNG" alt="Past Scans Screen" width="180"/>
-  <img src="wireframe%20imgs/past-scans-card.PNG" alt="Past Scans Card" width="180"/>
-  <img src="wireframe%20imgs/visionary-screen.PNG" alt="Visionary Screen" width="180"/>
-  <img src="wireframe%20imgs/eye-specialists-screen.PNG" alt="Eye Specialists Screen" width="180"/>
-  <img src="wireframe%20imgs/settings-screen.PNG" alt="Settings Screen" width="180"/>
+  <img src="wireframe%20imgs/retinal-analysis-card.PNG" alt="Retinal Analysis Card" width="200"/>
+  <img src="wireframe%20imgs/past-scans-screen.PNG" alt="Past Scans Screen" width="200"/>
+  <img src="wireframe%20imgs/past-scans-card.PNG" alt="Past Scans Card" width="200"/>
+  <img src="wireframe%20imgs/visionary-screen.PNG" alt="Visionary Screen" width="200"/>
+</p>
+
+<p align="center">
+  <img src="wireframe%20imgs/eye-specialists-screen.PNG" alt="Eye Specialists Screen" width="200"/>
+  <img src="wireframe%20imgs/settings-screen.PNG" alt="Settings Screen" width="200"/>
 </p>
 
 **📄 Project Presentation:** [View on Google Slides](https://docs.google.com/presentation/d/1apQXFQC1iqTHku9HJvzu5db5Kw4137jawZ9bPMif8uk/edit?slide=id.p1#slide=id.p1)  

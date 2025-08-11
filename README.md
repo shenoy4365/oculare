@@ -10,16 +10,16 @@ The application provides an interactive vision test, personalized eye health rec
 
 | App Screen                | Preview |
 |---------------------------|---------|
-| Eye Specialists Screen    | ![Eye Specialists Screen](wireframe%20imgs/eye-specialists-screen.png) |
-| Home Screen               | ![Home Screen](wireframe%20imgs/home-screen.png) |
-| Login Screen              | ![Login Screen](wireframe%20imgs/login-screen.png) |
-| Past Scans Card           | ![Past Scans Card](wireframe%20imgs/past-scans-card.png) |
-| Past Scans Screen         | ![Past Scans Screen](wireframe%20imgs/past-scans-screen.png) |
-| Retinal Analysis Card     | ![Retinal Analysis Card](wireframe%20imgs/retinal-analysis-card.png) |
-| Settings Screen           | ![Settings Screen](wireframe%20imgs/settings-screen.png) |
-| Sign-Up Screen            | ![Sign-Up Screen](wireframe%20imgs/sign-up-screen.png) |
-| Visionary Screen          | ![Visionary Screen](wireframe%20imgs/visionary-screen.png) |
-| Welcome Screen            | ![Welcome Screen](wireframe%20imgs/welcome-screen.png) |
+| Eye Specialists Screen    | ![Eye Specialists Screen](wireframe/eye-specialists-screen.PNG) |
+| Home Screen               | ![Home Screen](wireframe%20imgs/home-screen.PNG) |
+| Login Screen              | ![Login Screen](wireframe%20imgs/login-screen.PNG) |
+| Past Scans Card           | ![Past Scans Card](wireframe%20imgs/past-scans-card.PNG) |
+| Past Scans Screen         | ![Past Scans Screen](wireframe%20imgs/past-scans-screen.PNG) |
+| Retinal Analysis Card     | ![Retinal Analysis Card](wireframe%20imgs/retinal-analysis-card.PNG) |
+| Settings Screen           | ![Settings Screen](wireframe%20imgs/settings-screen.PNG) |
+| Sign-Up Screen            | ![Sign-Up Screen](wireframe%20imgs/sign-up-screen.PNG) |
+| Visionary Screen          | ![Visionary Screen](wireframe%20imgs/visionary-screen.PNG) |
+| Welcome Screen            | ![Welcome Screen](wireframe%20imgs/welcome-screen.PNG) |
 
 **📄 Project Presentation:** [View on Google Slides](https://docs.google.com/presentation/d/1apQXFQC1iqTHku9HJvzu5db5Kw4137jawZ9bPMif8uk/edit?slide=id.p1#slide=id.p1)  
 **🎥 Video Demonstration:** [Watch on Google Drive](https://drive.google.com/file/d/1W6F79Vc4QsYAoKDrFLudB-CkWcgjs3w3/view?usp=drive_link)

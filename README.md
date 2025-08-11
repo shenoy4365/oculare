@@ -8,15 +8,21 @@ The application provides an interactive vision test, personalized eye health rec
 
 ## 📸 Screenshots & Demo
 
-| App Screen      | Preview |
-|-----------------|---------|
-| Home Screen     | ![Home Screen](wireframe%20imgs/home.png) |
-| Scan Upload     | ![Scan Upload](wireframe%20imgs/upload.png) |
-| AI Results      | ![AI Results](wireframe%20imgs/results.png) |
-| Chatbot         | ![Chatbot](wireframe%20imgs/chatbot.png) |
+| App Screen                | Preview |
+|---------------------------|---------|
+| Eye Specialists Screen    | ![Eye Specialists Screen](wireframe%20imgs/eye-specialists-screen.png) |
+| Home Screen               | ![Home Screen](wireframe%20imgs/home-screen.png) |
+| Login Screen              | ![Login Screen](wireframe%20imgs/login-screen.png) |
+| Past Scans Card           | ![Past Scans Card](wireframe%20imgs/past-scans-card.png) |
+| Past Scans Screen         | ![Past Scans Screen](wireframe%20imgs/past-scans-screen.png) |
+| Retinal Analysis Card     | ![Retinal Analysis Card](wireframe%20imgs/retinal-analysis-card.png) |
+| Settings Screen           | ![Settings Screen](wireframe%20imgs/settings-screen.png) |
+| Sign-Up Screen            | ![Sign-Up Screen](wireframe%20imgs/sign-up-screen.png) |
+| Visionary Screen          | ![Visionary Screen](wireframe%20imgs/visionary-screen.png) |
+| Welcome Screen            | ![Welcome Screen](wireframe%20imgs/welcome-screen.png) |
 
-**📄 Presentation:** [Google Slides](https://docs.google.com/presentation/d/1apQXFQC1iqTHku9HJvzu5db5Kw4137jawZ9bPMif8uk/edit?slide=id.p1#slide=id.p1)  
-**🎥 Video Demo:** [Watch on Google Drive](https://drive.google.com/file/d/1W6F79Vc4QsYAoKDrFLudB-CkWcgjs3w3/view?usp=drive_link)
+**📄 Project Presentation:** [View on Google Slides](https://docs.google.com/presentation/d/1apQXFQC1iqTHku9HJvzu5db5Kw4137jawZ9bPMif8uk/edit?slide=id.p1#slide=id.p1)  
+**🎥 Video Demonstration:** [Watch on Google Drive](https://drive.google.com/file/d/1W6F79Vc4QsYAoKDrFLudB-CkWcgjs3w3/view?usp=drive_link)
 
 ---
 
@@ -90,7 +96,7 @@ Note that the Google Gemini API Key is synced and saved in the user’s authenti
    npm start
    ```
 
-### 6. Scan the Expo React Native QR Code with your iPhone or open on the web with Expo React Native shortcuts (found in the active terminal) to see the result.
+To see the working application, scan the Expo React Native QR Code with your iPhone or open on the web with Expo React Native shortcuts (found in the active terminal).
 
 ## Deployment
 

@@ -104,7 +104,7 @@ Note that the Google Gemini API Key is synced and saved in the user’s authenti
 
 To see the working application, scan the Expo React Native QR Code with your iPhone or open on the web with Expo React Native shortcuts (found in the active terminal).
 
-###  5. Run the backend development server:
+###  6. Run the backend development server:
 
    ```bash
    cd backend

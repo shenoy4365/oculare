@@ -96,13 +96,36 @@ You can start developing by editing the files inside the **app** directory.
 
 Note that the Google Gemini API Key is synced and saved in the user’s authentication and database table (and can be updated accordingly when the user is signed into the application). Therefore, the user must provide their Google Gemini API Key in order to use Visionary AI’s functionalities and capabilites. To learn more about getting your Google Gemini API Key to use Oculare, please visit [Google AI Studio](https://aistudio.google.com/app/apikey) for instructions and API usages.
 
-###  5. Run the development server:
+###  5. Run the frontend development server:
 
    ```bash
    npm start
    ```
 
 To see the working application, scan the Expo React Native QR Code with your iPhone or open on the web with Expo React Native shortcuts (found in the active terminal).
+
+###  5. Run the backend development server:
+
+   ```bash
+   cd backend
+   python app.py
+   ```
+
+Once running, you should see something like * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+
+```javascript
+   // Before
+   const response = await fetch("http://your-python-flask-ip-address:5000/upload", {
+       method: "POST",
+       body: formData,
+   });
+
+   // After (replace 192.168.x.x with your actual local IP)
+   const response = await fetch("http://192.168.x.x:5000/upload", {
+       method: "POST",
+       body: formData,
+   });
+```
 
 ## Deployment
 
